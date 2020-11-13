@@ -1,6 +1,6 @@
 Photo Portifolio
 
-Curso de Git
+Curso de Git de Willian Justen
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
